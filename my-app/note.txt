@@ -1,0 +1,11 @@
+Smart components : (handle API)
+also known as container components, are responsible for managing state,
+fetching data, and handling complex logic. 
+They are often connected to a Redux store or other state management system and pass data and functionality down to their child components.
+Smart components typically have more complex code and are often reused across multiple pages or sections of an application.
+
+Dumb components: (Jest show UI elements)
+also known as presentational or UI components, 
+are responsible for rendering content and accepting user input. 
+They receive data and functionality from their parent smart components and simply render that data in a specific way. 
+Dumb components are often simple and reusable, and they typically do not have any knowledge of the application state or business logic.

@@ -1,0 +1,2 @@
+# For react animation
+- npm i react-transition-group
