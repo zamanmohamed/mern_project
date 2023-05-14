@@ -1,6 +1,0 @@
-# /components/UserItem.js --> මෙහිදී තනි UI card එකක් ගැන බලා ගනී..
-# /components/UserList.js --> මෙහිදී  json මගින් create වන UI card සියල්ල ගැන හා 
-                              එවා json array එක emptyද නැද්ද කියාද empty නම් display
-                              විය යුතු wornig msg ගැන බලයි
-
-
